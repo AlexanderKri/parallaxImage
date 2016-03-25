@@ -3,6 +3,11 @@
 
 Параллакс анимация изображения.
 
+Bower
+```
+bower install mythos.parallaxImage
+```
+
 Вызов
 ```javascript
 $(function () {
