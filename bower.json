@@ -1,0 +1,8 @@
+{
+  "name" : "parallaxImage",
+  "version" : "0.0.1",
+  "main" : "dist/js/miso.parallaxImage.js",
+  "dependencies" : {
+    "jquery" : ">=2.1.3"
+  }
+}
